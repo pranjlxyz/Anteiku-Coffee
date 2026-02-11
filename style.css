@@ -263,11 +263,12 @@ footer {
 }
 
 /* Responsive */
-@media (max-with: 768px) {
+@media (max-with: 720px) {
     .about {
         flex-direction: column;
     }
     .hero-text h1 {
         font-size: 2rem;
     }
+
 }
