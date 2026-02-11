@@ -263,7 +263,7 @@ footer {
 }
 
 /* Responsive */
-@media (max-with: 720px) {
+@media (max-with: 100%) {
     .about {
         flex-direction: column;
     }
@@ -272,4 +272,5 @@ footer {
     }
 
 }
+
 
